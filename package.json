@@ -12,7 +12,8 @@
     "build-check": "scripts/preCommit/buildCheck.sh",
     "enforce-pre-commit": "scripts/enforcePreCommitSetup.sh",
     "build": "scripts/build.sh",
-    "prepack": "yarn build"
+    "prepack": "yarn build",
+    "scratch": "ts-node scratch.ts"
   },
   "files": [
     "dist"
