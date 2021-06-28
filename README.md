@@ -1,3 +1,5 @@
+THIS FORK IS CURRENTLY DEPRECATED. WE ARE BACK TO USING THE OFFICIAL, DISTRIBUTED VERSION.
+
 ## 📝 tslog: Beautiful logging experience for Node.js with TypeScript support
 
 

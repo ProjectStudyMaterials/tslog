@@ -82,3 +82,4 @@ dist/*
 !.yarn/sdks
 !.yarn/versions
 .pnp.*
+scratch*.ts
